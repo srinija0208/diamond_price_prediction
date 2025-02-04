@@ -10,7 +10,7 @@ def get_requirements() -> List[str]:
 
 
 setup(
-    name = "sensor",
+    name = "DiamondPricePrediction",
     version = "0.0.1",
     author = "srinija",
     author_email = "srinijasomannagari@gmail.com",
