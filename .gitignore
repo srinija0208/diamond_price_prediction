@@ -79,6 +79,7 @@ target/
 .ipynb_checkpoints
 test.py/
 artifacts/
+dock.py/
 
 # IPython
 profile_default/
